@@ -3,10 +3,10 @@ List of platforms and guides to parental control settings.
 
 If a game or platform is missing, or if you have any questions, please reach out or create an issue.
 
-## Apple iOS
+## Apple Families (iOS, macOS)
 For iPhone, iPad, Apple Watch, Mac and the rest of Apples products
 
-https://support.apple.com/en-us/105121
+https://www.apple.com/families/
 
 ## Apple tvOS
 If you want to restrict the access on an individual Apple TV
