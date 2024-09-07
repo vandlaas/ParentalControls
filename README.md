@@ -1,4 +1,4 @@
-# ParentalControls
+# ParentalControls 👨🏿‍👩🏼‍👧🏽‍👦🏾
 List of platforms and guides to parental control settings
 
 # Apple iOS
