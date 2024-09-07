@@ -30,7 +30,7 @@ https://www.nintendo.com/us/switch/parental-controls/
 # Playstation
 https://www.playstation.com/en-dk/parental-controls/
 
-#Roblox
+# Roblox
 Guides for parents to create a safe environment for children to experiance Roblox
 
 https://civility.roblox.com/families
