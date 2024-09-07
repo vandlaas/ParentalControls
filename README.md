@@ -13,10 +13,10 @@ If you want to restrict the access on an individual Apple TV
 
 https://support.apple.com/en-gb/guide/tv/atvbbaf126df/tvos
 
-## Google Family Link (Android)
+## Google Families (Android)
 For all Android based devices (phones, tables, watches, etc)
 
-https://families.google/familylink/
+https://families.google
 
 ## Epic Games
 If your child plays Fall Guys, Fortnite, LEGO Fortnite, Rocket League this is for you
