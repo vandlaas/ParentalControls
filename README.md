@@ -14,7 +14,7 @@ If you want to restrict the access on an individual Apple TV
 https://support.apple.com/en-gb/guide/tv/atvbbaf126df/tvos
 
 ## Google Family Link (Android)
-For alle Android based devices (phones, tables, watches, etc)
+For all Android based devices (phones, tables, watches, etc)
 
 https://families.google/familylink/
 
