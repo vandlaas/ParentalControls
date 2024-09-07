@@ -1,7 +1,7 @@
 # ParentalControls 👨🏿‍👩🏼‍👧🏽‍👦🏾
 List of platforms and guides to parental control settings.
 
-If a game or platform is missing, or if you have any questions, please reach out.
+If a game or platform is missing, or if you have any questions, please reach out or create an issue.
 
 ## Apple iOS
 For iPhone, iPad, Apple Watch, Mac and the rest of Apples products
