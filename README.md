@@ -11,7 +11,7 @@ https://support.apple.com/en-gb/guide/tv/atvbbaf126df/tvos
 https://families.google/familylink/
 
 # Epic Games
-If your child plays Fallgguys, Fortnite, LEGO Fortnite, Rocket League this is for you
+If your child plays Fall Guys, Fortnite, LEGO Fortnite, Rocket League this is for you
 https://safety.epicgames.com/en-US/parental-controls
 
 # Xbox
