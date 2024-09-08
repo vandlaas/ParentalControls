@@ -38,6 +38,8 @@ Guides for parents to create a safe environment for children to experiance Roblo
 https://civility.roblox.com/families
 
 ## Minecraft
-Guide for Minecraft. Please note that the parental controls are different depending on the platform used for playing Minecraft (eg. Playstation, iPad or Nintendo)
+Guide for Minecraft.
+
+> Please note that the parental controls are different depending on the platform used for playing Minecraft (eg. Playstation, iPad or Nintendo)
 
 https://www.minecraft.net/en-us/article/parental-controls
