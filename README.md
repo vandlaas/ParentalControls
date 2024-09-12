@@ -43,3 +43,8 @@ Guide for Minecraft.
 > Please note that the parental controls are different depending on the platform used for playing Minecraft (eg. Playstation, iPad or Nintendo)
 
 https://www.minecraft.net/en-us/article/parental-controls
+
+## Steam
+Guide for Steam
+
+https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4
